@@ -1,10 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Shreya Adhikari</h1>
 <h3 align="center">A design nerd & code magician</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhlZDRwZDkyMWZtcTVlaHkwNDVqNW9lcXFuNGRxcWtwYXBweDJ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya09032003&label=Profile%20views&color=0e75b6&style=flat" alt="shreya09032003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreya09032003" alt="shreya09032003" /></a> </p>
 
 - 🌱 I am currently learning **full stack web development**
 
